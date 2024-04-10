@@ -5,10 +5,10 @@
 git clone https://github.com/webdevserv/standarddiffusion_creator_html5_boilerplate_template.git
 cd standarddiffusion_creator_html5_template
 
-## Contributions  
+## contributions  
 
 Contributions are always welcome!
 
-## Donations  
+## donations  
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Artgen)
