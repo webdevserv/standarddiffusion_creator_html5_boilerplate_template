@@ -4,7 +4,7 @@ Standard Diffusion Creator HTML5 template
 ![Alt Text](https://github.com/webdevserv/../images/screen.jpg)  
 
 ## installation  
-git clone https://github.com/webdevserv/standarddiffusion_creator_html5_template.git
+git clone https://github.com/webdevserv/standarddiffusion_creator_html5_boilerplate_template.git
 cd standarddiffusion_creator_html5_template
 
 ## Contributions
